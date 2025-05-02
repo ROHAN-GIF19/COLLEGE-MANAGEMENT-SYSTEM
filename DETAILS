@@ -1,0 +1,30 @@
+Project: College Management System
+Stack: MERN (MongoDB, Express, React, Node.js)
+
+Portals & Features:
+
+Student: View marks (internal/external), download materials, view notices/timetables, update password
+
+Faculty: View student info, upload materials, manage timetables, post notices, record marks, update password
+
+Admin: Manage accounts (add/edit), manage subjects & notices
+
+Tech:
+
+Frontend: React, Redux, TailwindCSS
+
+Backend: Node.js, Express
+
+Database: MongoDB
+
+Setup:
+
+Clone repo
+
+Install dependencies in frontend & backend
+
+Create .env files from .env.sample
+
+Run npm run seed (Admin Login: 123456 / admin123)
+
+Start servers with npm start
